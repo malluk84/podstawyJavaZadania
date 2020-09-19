@@ -8,8 +8,7 @@ public class Ex1 {
         displayWordInDecFormat();
 
         // dorobić że przez scanner sami decydujemy czy hex bin dec
-        //
-
+        // zobaczymy czy działa
     }
 
     private static void displayWordInDecFormat() {
